@@ -8,7 +8,13 @@ Sou um **desenvolvedor em formação**, construindo minha carreira na área de t
 
 Tenho experiência de estudos em **programação, Python e Ciência de Dados** e atualmente estou direcionando minha formação para **Blockchain, Web3 e Smart Contracts**.
 
-Meu objetivo é transformar meus conhecimentos em projetos práticos, conquistar minha primeira oportunidade profissional em tecnologia e continuar evoluindo como desenvolvedor.
+Fechaduras digitais (Intelbras, Pado)
+Controle de acesso e facial
+CFTV
+Sistemas de alarme de incêndio
+Automação residencial completa com IA
+
+Meu objetivo é transformar meus conhecimentos em projetos práticos, conquistar minha oportunidade profissional em tecnologia e continuar evoluindo como desenvolvedor.
 
 ---
 
@@ -107,7 +113,7 @@ Busco minha **primeira oportunidade profissional na área de tecnologia**, com i
 - Web3
 - Smart Contracts
 
-Tenho interesse em oportunidades de **estágio, posições júnior e outras oportunidades de entrada**, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e continuar evoluindo.
+Evolução 🧬 Constante 
 
 ---
 
